@@ -30,7 +30,7 @@
 
 **Technical Details:**
 
-* API access via RESTful endpoints (e.g., `clinicaltrials.gov/API/V2/query?cond=asthma&count=true`).
+* API access via RESTful endpoints (e.g., `clinicaltrials.gov/api/v2/query?cond=asthma&count=true`).
 * Study Title hyperlinks constructed with NCT ID (`clinicaltrials.gov/study/NCT[NCTID]`).
 
 **UX Emphasis:** Enhance the user experience beyond replicating ClinicalTrials.gov. Explore creative solutions for data visualization and interaction. Table view is a starting point, but other visualizations are welcome.
